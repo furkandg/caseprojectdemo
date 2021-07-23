@@ -1,0 +1,123 @@
+﻿
+<div class="col-sm-12" id="categoryAddPanel">
+
+    <div class="alert alert-success alert-dismissible" role="alert" v-if="state.condition == true">
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button>
+        {{state.message}}
+    </div>
+
+    <div class="alert alert-danger alert-dismissible" role="alert" v-if="state.condition== false">
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button>
+        Oh snap! Change a few things up and try submitting again.
+    </div>
+    <div class="card">
+        <div class="card-header ch-alt m-b-20">
+            <h2>Kategori İşlemleri <small>Kategori Ekle</small></h2>
+            <ul class="actions">
+                <li>
+                    <a href="#">
+                        <i class="zmdi zmdi-refresh-alt"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        <i class="zmdi zmdi-download"></i>
+                    </a>
+                </li>
+                <li class="dropdown">
+                    <a href="#" data-toggle="dropdown">
+                        <i class="zmdi zmdi-more-vert"></i>
+                    </a>
+
+                    <ul class="dropdown-menu dropdown-menu-right">
+                        <li>
+                            <a href="#">Change Date Range</a>
+                        </li>
+                        <li>
+                            <a href="#">Change Graph Type</a>
+                        </li>
+                        <li>
+                            <a href="#">Other Settings</a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+
+            <a href="/Category/Index" class="btn bgm-green btn-float waves-effect"><i class="zmdi zmdi-apps"></i></a>
+        </div>
+
+        <div class="card-body card-padding">
+            <form>
+                <div class="input-group">
+                    <span class="input-group-addon"><i class="zmdi zmdi-layers"></i></span>
+                    <div class="fg-line">
+                        <input type="text" class="form-control" placeholder="Ad" name="ad" v-model="categorydata.ad">
+
+                    </div>
+                </div>
+                <div class="input-group mt-3">
+                    <span class="input-group-addon"><i class="zmdi zmdi-collection-text"></i></span>
+                    <div class="fg-line">
+                        <textarea class="form-control" rows="4" placeholder="Açıklama" name="aciklama" v-model="categorydata.aciklama"></textarea>
+                    </div>
+                </div>
+            </form>
+            <button class="btn btn-success btn-sm m-t-10" style="margin-left:15px;" v-on:click="categoryAdd()"> Ekle</button>
+
+
+
+        </div>
+
+
+    </div>
+</div>
+<script>
+
+    new Vue({
+        el: "#categoryAddPanel",
+        data: {
+            state: {
+                condition: null,
+                message: ""
+
+            },
+            categorydata: {
+                "ad": "",
+                "aciklama":""
+
+            }
+        },
+        beforeCreate() {
+            if (!localStorage.getItem("localToken")) {
+                window.location.href = "/login/index";
+            }
+        },
+        methods: {
+            categoryAdd() {
+
+                Object.assign(this.$data, this.$options.data());
+          
+                $.ajax({
+                    dataType: 'json',
+                    contentType: 'application/json; charset=utf-8',
+                    headers: {
+                        'Authorization': 'bearer ' + localStorage.getItem("localToken")
+                    },
+                    type: 'POST',
+                    data: JSON.stringify(this.categorydata),
+                    url: 'http://localhost:1917/api/Category/Add',
+                    success: (res, status) => {
+                        Object.assign(this.$data, this.$options.data());
+                    },
+                    error: (res, status) =>{
+                        this.state.condition = true;
+                        this.state.message = "Ekleme İşlemi Başarılı";
+                        setTimeout( () =>{ this.state.condition=null; }, 1000);
+                        //Object.assign(this.$data, this.$options.data());
+                      
+                    },
+                })
+            }
+        }
+    })
+</script>

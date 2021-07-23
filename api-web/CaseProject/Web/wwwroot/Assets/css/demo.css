@@ -1,0 +1,144 @@
+﻿h4 {
+    font-size: 20px;
+}
+
+.bgm-this {
+    background-color: rgba(255, 255, 255,0.9);
+}
+
+.demo-container {
+    width: 700px;
+    position: fixed;
+    right: 0px;
+    top: 0px;
+    height: 100vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.demo-left {
+    width: calc( 100vw - 730px);
+}
+
+#iframe-video {
+    width: 90%;
+    height: 500px;
+    margin: 0px 5%;
+}
+
+.pricing .card {
+    border: none;
+    border-radius: 1rem;
+    transition: all 0.2s;
+    box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+    margin-bottom: 5px;
+    padding: 15px;
+}
+
+.bgm-red {
+    background: #ef325a !important;
+    color: white;
+}
+
+    .bgm-red:hover {
+        background: #ef325a !important;
+        color: white;
+    }
+
+.pricing hr {
+    margin: 1.5rem 0;
+    width: 100%;
+    display: block;
+}
+
+.pricing .card-title {
+    font-size: 18px;
+    letter-spacing: .1rem;
+    font-weight: bold;
+    padding-bottom: 15px;
+    color: #ef325a;
+}
+
+.pricing .card-price {
+    font-size: 3rem;
+    margin: 0;
+}
+
+    .pricing .card-price .period {
+        font-size: 0.8rem;
+    }
+
+.pricing ul {
+    padding: 15px !important;
+}
+
+    .pricing ul li {
+        margin-bottom: 15px;
+    }
+
+.pricing .text-muted {
+    opacity: 0.6;
+}
+
+.pricing .btn {
+    font-size: 80%;
+    border-radius: 5rem;
+    letter-spacing: .1rem;
+    font-weight: bold;
+    padding: 1rem;
+    opacity: 0.7;
+    transition: all 0.2s;
+}
+
+/* Hover Effects on Card */
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: #ef325a;
+}
+
+.btn-danger {
+    background-color: #ef325a;
+}
+
+@media (min-width: 992px) {
+    .pricing .card:hover {
+        margin-top: -.25rem;
+        margin-bottom: .25rem;
+        box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.3);
+    }
+
+        .pricing .card:hover .btn {
+            opacity: 1;
+        }
+}
+
+@media only screen and (max-width: 600px) {
+    .demo-container {
+        position: relative;
+        right: unset;
+        top: unset;
+        height: unset;
+        overflow-y: unset;
+        overflow-x: unset;
+        width: 100%;
+        padding: 15px 0px;
+        margin-top: 50px;
+    }
+
+    .demo-left {
+        width: 100%;
+    }
+
+    h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+        font-family: inherit;
+        font-weight: bold;
+        line-height: 2;
+        color: #ef325a;
+    }
+
+    h3, .h3 {
+        font-size: 29px;
+    }
+}

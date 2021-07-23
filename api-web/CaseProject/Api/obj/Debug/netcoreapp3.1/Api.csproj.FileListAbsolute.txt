@@ -1,0 +1,164 @@
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Api.exe
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Api.deps.json
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.json
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.dev.json
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Api.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Api.pdb
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Core.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Dal.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Model.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Dal.pdb
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Model.pdb
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Core.pdb
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\obj\Debug\netcoreapp3.1\Api.csprojAssemblyReference.cache
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfoInputs.cache
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfo.cs
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\obj\Debug\netcoreapp3.1\Api.csproj.CoreCompileInputs.cache
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\obj\Debug\netcoreapp3.1\Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.Manifest.cache
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.xml
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Api.styles.css
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\obj\Debug\netcoreapp3.1\Api.RazorTargetAssemblyInfo.cache
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\obj\Debug\netcoreapp3.1\Api.csproj.CopyComplete
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\obj\Debug\netcoreapp3.1\Api.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\obj\Debug\netcoreapp3.1\Api.pdb
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\obj\Debug\netcoreapp3.1\Api.genruntimeconfig.cache
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\obj\Debug\netcoreapp3.1\Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Bll.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Bll.pdb
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\NJsonSchema.Yaml.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\NSwag.Core.Yaml.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+D:\Furkan_yapılan_projeler\web\ProjectCore\ProjectCore\Api\bin\Debug\netcoreapp3.1\Api.xml
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\obj\Debug\netcoreapp3.1\Api.csprojAssemblyReference.cache
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfoInputs.cache
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\obj\Debug\netcoreapp3.1\Api.AssemblyInfo.cs
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\obj\Debug\netcoreapp3.1\Api.csproj.CoreCompileInputs.cache
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\obj\Debug\netcoreapp3.1\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\obj\Debug\netcoreapp3.1\Api.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\obj\Debug\netcoreapp3.1\Api.pdb
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Api.exe
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Api.deps.json
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.json
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Api.runtimeconfig.dev.json
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Api.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Api.pdb
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Api.xml
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\NJsonSchema.Yaml.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\NSwag.Core.Yaml.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Bll.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Dal.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Bll.pdb
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Dal.pdb
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.Manifest.cache
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\obj\Debug\netcoreapp3.1\staticwebassets\Api.StaticWebAssets.xml
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Api.styles.css
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\obj\Debug\netcoreapp3.1\Api.RazorTargetAssemblyInfo.cache
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\obj\Debug\netcoreapp3.1\Api.csproj.CopyComplete
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\obj\Debug\netcoreapp3.1\Api.genruntimeconfig.cache
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\obj\Debug\netcoreapp3.1\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll

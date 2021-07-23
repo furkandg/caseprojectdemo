@@ -1,0 +1,16 @@
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Bll\bin\Release\netcoreapp3.1\Bll.deps.json
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Bll\bin\Release\netcoreapp3.1\Bll.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Bll\bin\Release\netcoreapp3.1\Bll.pdb
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Bll\bin\Release\netcoreapp3.1\Core.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Bll\bin\Release\netcoreapp3.1\Dal.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Bll\bin\Release\netcoreapp3.1\Model.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Bll\bin\Release\netcoreapp3.1\Core.pdb
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Bll\bin\Release\netcoreapp3.1\Dal.pdb
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Bll\bin\Release\netcoreapp3.1\Model.pdb
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Bll\obj\Release\netcoreapp3.1\Bll.csprojAssemblyReference.cache
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Bll\obj\Release\netcoreapp3.1\Bll.AssemblyInfoInputs.cache
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Bll\obj\Release\netcoreapp3.1\Bll.AssemblyInfo.cs
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Bll\obj\Release\netcoreapp3.1\Bll.csproj.CoreCompileInputs.cache
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Bll\obj\Release\netcoreapp3.1\Bll.csproj.CopyComplete
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Bll\obj\Release\netcoreapp3.1\Bll.dll
+C:\Users\Mekansal Bulut\Desktop\case\CaseProject\Bll\obj\Release\netcoreapp3.1\Bll.pdb

@@ -1,0 +1,25 @@
+﻿<div id="dash">
+
+</div>
+<h1>Dashboard</h1>
+
+<script>
+    new Vue({
+        el: '#dash',
+        data: {
+
+        },
+        beforeCreate() {
+            if (!localStorage.getItem("localToken")) {
+                window.location.href = "/login/index";
+            }
+        },
+
+        methods: {
+
+
+        }
+
+    })
+
+</script>

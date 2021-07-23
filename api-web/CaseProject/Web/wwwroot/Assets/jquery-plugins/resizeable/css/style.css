@@ -1,0 +1,56 @@
+﻿body{overflow:hidden;position:relative;}
+.panel-container {
+  display: flex;
+  flex-direction: row;
+  overflow: hidden;  
+  position:absolute;
+  top:0;
+  bottom:0;
+  width:100%;
+}
+
+.panel-left {
+  flex: 0 0 auto;
+  width: 40%;
+  min-height: 200px;
+  background: #FFF;
+  position:relative;
+  overflow-y:auto;
+  overflow-x:hidden;
+  padding-left:80px;
+  min-width:80px !important;
+  box-sizing:border-box;
+}
+.panel-left .tab-content{padding:15px}
+
+.splitter {
+    flex: 0 0 auto;
+    width: 10px;
+    background: url('../../../../../Assets/jquery-plugins/resizeable/image/vsizegrip.png') center center no-repeat #FFF;
+    min-height: 200px;
+    cursor: col-resize;
+}
+
+
+.panel-right {
+  flex: 1 1 auto;
+  width: 60%;
+  min-height: 200px; 
+}
+
+
+/* vertical panel */
+
+.panel-container-vertical {
+  display: flex;
+  flex-direction: column;
+  height: 500px;
+  border: 1px solid silver;
+  overflow: hidden;
+}
+.dashboard-vertical-menu{padding:0; width:80px; height:100%; position:fixed;left:0;top:70px; bottom:0; background-color:#0e3d6a; z-index:99}
+.dashboard-vertical-menu li{display:block; border-bottom:1px solid #032b52}
+.dashboard-vertical-menu li a{display:block; padding:15px 3px; text-align:center; color:#FFF; font-size:12px;}
+.dashboard-vertical-menu li a:hover{}
+.dashboard-vertical-menu li.active a { background:url('../../../../../Assets/jquery-plugins/resizeable/image/menu-arrow.png') no-repeat center right #3bbee3;}
+.dashboard-vertical-menu li a span{display:block; text-align:center; margin-bottom:10px; font-size:18px}

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Api</name>
+    </assembly>
+    <members>
+        <member name="M:Api.Controllers.LoginUserController.Login(Model.ViewModel.LoginViewModel)">
+            <summary>
+            Giriş İşlemi
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

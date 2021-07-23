@@ -1,0 +1,6 @@
+﻿.excel-number {
+  mso-number-format:General !important;
+}
+.excel-text{
+  mso-number-format:"\@" !important;/*force text*/
+}

@@ -1,0 +1,13 @@
+﻿.fixed-header {
+    position: fixed !important;
+    top: 70px;
+    z-index: 300;
+}
+
+.fixed-tr {
+    position: fixed;
+    top: 160px;
+    z-index:100;
+    box-shadow:0 2px 8px rgba(0,0,0,0.4);
+}
+

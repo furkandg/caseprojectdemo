@@ -1,0 +1,132 @@
+﻿<script src="~/Assets/Template/MaterialTemp/vendors/fileinput/fileinput.min.js"></script>
+<div class="col-sm-12" id="categoryAddPanel">
+    <div class="alert alert-success alert-dismissible" role="alert" v-if="state.condition == true">
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button>
+        {{state.message}}
+    </div>
+
+    <div class="alert alert-danger alert-dismissible" role="alert" v-if="state.condition== false">
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button>
+        Oh snap! Change a few things up and try submitting again.
+    </div>
+
+    <div class="card">
+        <div class="card-header ch-alt m-b-20">
+            <h2>Yazı İşlemleri <small>Yazı Ekle</small></h2>
+            <a href="/Articles/Index" class="btn bgm-green btn-float waves-effect"><i class="zmdi zmdi-apps"></i></a>
+        </div>
+
+        <div class="card-body card-padding">
+            <form id="articlesAdd">
+
+                <div class="fileinput fileinput-new" data-provides="fileinput">
+                    <div class="fileinput-preview thumbnail" data-trigger="fileinput"></div>
+                    <div>
+                        <span class="btn btn-success btn-file">
+                            <span class="fileinput-new">Kapak Yükle</span>
+                            <span class="fileinput-exists">Değiştir</span>
+                            <input type="file" id="raster-import-file" name="fileImage">
+                        </span>
+                        <a href="#" class="btn btn-danger fileinput-exists" data-dismiss="fileinput">Kaldır</a>
+                    </div>
+                </div>
+
+                <div class="input-group">
+                    <span class="input-group-addon"><i class="zmdi zmdi-layers"></i></span>
+                    <div class="fg-line">
+                        <select class="form-control" v-model="articlesdata.kategoriId" name="kategoriId">
+                            <option>Kategori Seçiniz</option>
+                            <option v-for="item in categoryList" v-bind:value="item.id">{{item.ad}}</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div class="input-group mt-3">
+                    <span class="input-group-addon"><i class="zmdi zmdi-layers"></i></span>
+                    <div class="fg-line">
+                        <input type="text" class="form-control" placeholder="Başlık" name="title">
+                    </div>
+                </div>
+
+                <div class="input-group mt-3">
+                    <span class="input-group-addon"><i class="zmdi zmdi-collection-text"></i></span>
+                    <div class="fg-line">
+                        <textarea class="form-control" rows="4" placeholder="Metin" name="text"></textarea>
+                    </div>
+                </div>
+            </form>
+            <button class="btn btn-success btn-sm m-t-10" v-on:click="articlesAdd()"> Ekle</button>
+        </div>
+    </div>
+</div>
+
+<script>
+    new Vue({
+        el: "#categoryAddPanel",
+        data: {
+            categoryList: "",
+            state: {
+                condition: null,
+                message: ""
+            },
+            articlesdata: {
+                "title": "",
+                "text": "",
+                "kategoriId": "Kategori Seçiniz"
+            },
+            articleImage: null
+        },
+        beforeCreate() {
+            if (!localStorage.getItem("localToken")) {
+                window.location.href = "/login/index";
+            }
+        },
+        beforeMount() {
+            this.getAllList()
+        },
+        methods: {
+            getAllList() {
+                $.ajax({
+                    dataType: 'json',
+                    type: 'POST',
+                    contentType: 'application/json',
+                    url: 'http://localhost:1917/api/Category/ListAll',
+                    success: (res, status) => {
+                        this.categoryList = res;
+                    },
+                    error: function (res, status) {
+
+                    },
+                })
+            },
+            articlesAdd() {
+                var form = $('#articlesAdd')[0];
+                var data = new FormData(form);
+                $.ajax({
+                    url: "http://localhost:1917/api/Articles/Add",
+                    type: "POST",
+                    headers: {
+                        'Authorization': 'bearer ' + localStorage.getItem("localToken")
+                    },
+                    data: data,
+                    contentType: false,
+                    dataType: "json",
+                    processData: false,
+                    success: function (status) {
+                        $('#result').append(status);
+                        this.state.condition = true;
+                        this.state.message = "Ekleme İşlemi Başarılı";
+                        setTimeout(() => { this.state.condition = null; }, 1000);
+                    },
+                    error: (res, status) => {
+                        this.state.condition = true;
+                        this.state.message = "Ekleme İşlemi Başarılı";
+                        setTimeout(() => { this.state.condition = null; }, 1000);
+                        //Object.assign(this.$data, this.$options.data());
+
+                    },
+                });
+            }
+        }
+    })
+</script>

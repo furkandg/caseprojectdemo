@@ -1,0 +1,220 @@
+﻿
+.tree label, .tree li {
+    cursor: pointer;
+    list-style: none;
+}
+
+input[type=checkbox] {
+    vertical-align: middle !important;
+}
+
+.tree {
+    padding: 0px;
+}
+
+    .tree ul {
+        display: none;
+        margin: 0 auto 0 6px;
+        padding: 0px;
+    }
+
+    .tree li {
+        padding: 0 10px;
+        vertical-align: middle;
+        list-style: none;
+        font-size: 12px;
+    }
+
+    .tree input[type=checkbox] {
+        margin: -2px 6px 0 0;
+    }
+
+    .tree .total {
+        color: #e13300;
+    }
+
+.tree-controls {
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+    width: 100%;
+}
+
+    .tree-controls li {
+        display: inline-block;
+        float: left;
+        box-sizing: border-box;
+    }
+
+        .tree-controls li a {
+            display: inline-block;
+            padding: 10px;
+            font-size: 12px;
+            color: #999;
+        }
+
+.sub-total {
+    background: #e4e4e4;
+}
+
+    .sub-total td {
+        font-size: 12px;
+        font-weight: bold;
+    }
+
+.bgm-darkblue {
+    background-color: #093a68 !important;
+}
+
+.btn-default-icon, .btn-default-icon:hover, .btn-default-icon:focus {
+    color: #FFF;
+    background-color: #093a68;
+    padding: 5px;
+    border-radius: 3px;
+}
+
+.tbl-blue {
+    border-top: 0;
+}
+
+    .tbl-blue thead tr th, .tbl-blue tfoot tr th {
+        background: #093a68;
+        border-color: #093a68;
+        color: #FFF;
+        font-weight: bold;
+        vertical-align: middle;
+    }
+
+        .tbl-blue thead tr th a:before {
+            color: #FFF !important;
+            margin-bottom: -3px;
+            margin-left: 10px;
+        }
+
+        .tbl-blue thead tr th a {
+            display: inline;
+        }
+
+    .tbl-blue tbody tr td {
+        vertical-align: middle;
+    }
+
+.btn-header-list {
+    position: absolute;
+    right: 15px;
+    top: 30px;
+}
+
+.scrolTop {
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    z-index: 999999;
+    display: none;
+}
+
+
+.card-left-filter-container {
+    position: fixed;
+    top: 70px;
+    bottom: 0;
+    left: 0;
+    padding: 0 auto;
+}
+
+    .card-left-filter-container .card .card-body {
+        overflow-x: hidden;
+        overflow-y: auto;
+        height: calc(100% - 125px);
+    }
+
+    .card-left-filter-container .card .card-footer {
+        padding: 15px;
+    }
+
+.fg-float .fg-toggled .fg-label {
+    top: -10px;
+}
+
+/*********** Collapse Item****************/
+
+
+    .collapse-item .collapse-item-header {
+        position: relative;
+        padding:15px 5px 5px 5px;
+    }
+
+        .collapse-item .collapse-item-header a {
+            color: #333;
+            display: block;
+            font-size: 13px;
+            font-weight: bold;
+            position: relative;
+        }
+
+        .collapse-item .collapse-item-header a i{
+            position: absolute;
+            right:0px;
+        }
+
+
+    .collapse-item .collapse-item-body {
+        border-bottom: 1px solid #c3c2c2;
+        padding-bottom: 10px;
+    }
+
+    .collapse-item:last-child .collapse-item-body {
+        border-bottom: none;
+    }
+
+.collapse-item-header-btn {
+    position: absolute;
+    right: 5px;
+    top: 0px;
+}
+
+
+.sikayetView .table thead tr th{font-weight:bold}
+.sikayetView .table tbody tr td, .sikayetView .table thead tr th { vertical-align: middle;}
+.sikayetView td a{text-align:center; display:block; color:#093a68}
+
+.sikayetView .fg-float {margin-bottom: 15px;}
+.sikayetView .filters .btn {min-width: 150px; }
+.sikayetView .collapse {border-bottom: 1px solid #dedede;}
+.sikayetView .nav-justified{background:#093a68;}
+.sikayetView .nav-justified>li>a{border-radius:0; border:none; background:#093a68; display:block; width:100%; color:#FFF;}
+.sikayetView .nav-justified>li>a:hover{background:#10bcea}
+.sikayetView .nav-justified>li.active>a, .nav-justified>li>a:focus, .nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus{background:url("../img/sikayetMenuActive.png") #0cb0dc no-repeat bottom center}
+.sikayetView .sikayetTr{background:#FFF; border-top:5px solid #edecec}
+
+.sikayetViewDetails .table thead tr th{font-weight:bold}
+.sikayetViewDetails td a{color:#093a68}
+.sikayetViewDetails .sikayetMapOpen{background:url("../img/sikayetViewMapIcon.png") no-repeat top center; padding-top:80px; text-align:center; color:#999; display:inline-block; width:100%; margin:10px 0;}
+.sikayetViewDetails .sikayetMap{height:500px; position:relative; display:none}
+.sikayetViewDetails .sikayetMap .sikayetMapClose{position:absolute; right:10px; top:10px; z-index:99; height:30px; width:30px; line-height:30px;}
+.sikayetViewDetails .sikayetMap .sikayetMapClose .zmdi{line-height:30px}
+
+.load-data .load-hidden{display:none;}
+.load-data .table{background:#fbfbfb}
+
+.btn-float-2 {
+    right: 90px !important;
+    bottom: -23px;
+    z-index: 1;
+    width: 50px;
+    height: 50px;
+    border-radius: 50% !important;
+    line-height: 45px !important;
+    position:absolute !important;
+}
+.btn-float-2:not(.m-btn) {
+    position: absolute !important;
+}
+.btn-float-2 i {
+    font-size: 23px;
+    -webkit-transition: all;
+    -o-transition: all;
+    transition: all;
+    -webkit-transition-duration: 500ms;
+    transition-duration: 500ms;
+}

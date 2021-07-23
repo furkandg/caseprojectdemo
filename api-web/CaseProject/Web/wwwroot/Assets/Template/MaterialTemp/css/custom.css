@@ -1,0 +1,345 @@
+﻿table {
+    font-size: 12px;
+}
+
+.a-form-label {
+        font-weight: bold;
+        padding-left: 40px;
+    }
+
+    .filter-horizantal .col-sm-2, .filter-horizantal .col-sm-6 {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .bg-select-2:before {
+        background-color: #fbfbfb !important;       
+        background-image: url(../img/select2.png) !important;
+        width:15px !important;
+    }
+/*KURUM - CREATE*/
+.chosen-container {
+    width: 100% !important;
+}
+
+    .chosen-container .chosen-drop {
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+        margin-top: 1px;
+        border: 0;
+        left: 0;
+        transform: scale(0);
+        opacity: 0;
+        transform-origin: top left;
+        transition-duration: 250ms;
+        position: absolute;
+        top: 100%;
+        z-index: 1010;
+        width: 100%;
+        background: #fff;
+    }
+
+.chosen-container-multi .chosen-choices li.search-choice .search-choice-close {
+    background: none;
+}
+
+    .chosen-container-multi .chosen-choices li.search-choice .search-choice-close:before {
+        top: 0;
+    }
+
+.labelcss .control-label {
+    padding-top: 0 !important;
+}
+
+/*KURUM - EDIT*/
+.labelcss .control-label {
+    padding-top: 0 !important;
+}
+
+/*MODUL - INDEX, KullaniciYetkileriIndex, KurumYetkileriIndex*/
+.input-group {
+    width: 100%;
+}
+
+/*RUHSAT - INDEX*/
+
+/*Ruhsat Link START*/
+.btn-glyphicon {
+    padding: 8px;
+    background: #ffffff;
+    margin-right: 4px;
+}
+
+.icon-btn {
+    padding: 1px 15px 3px 2px;
+    border-radius: 0;
+}
+/*Ruhsat Link END*/
+
+/*END*/
+
+
+/*RUHSATSUREC*/
+.ruhsatsahipaddicon {
+    float: right;
+    margin-top: -35px;
+    margin-right: 15px;
+    position: relative;
+}
+
+/*AbsCizimDuzeltmeTalebiPopUp , BSRuhsatDuzeltmeTalebiPopUp*/
+.modal .modal-body {
+    padding: 0px 0px 5px !important;
+}
+
+.card {
+    box-shadow: none;
+}
+
+/*AbsCizimKontrolü*/
+.form-horizontal .radio, .form-horizontal .checkbox, .form-horizontal .radio-inline, .form-horizontal .checkbox-inline {
+    padding-top: 0;
+}
+
+/*END*/
+
+/*SUBUSER*/
+.pswshow .glyphicon-eye-open {
+    position: absolute;
+    top: 5px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    right: 30px;
+    cursor: pointer;
+}
+
+/*TUZEKISI*/
+.checkbox input[type="checkbox"] {
+    position: relative !important;
+}
+
+/*USER - ChangePassword*/
+.glyphicon-eye-open {
+    position: absolute;
+    top: 5px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    right: 30px;
+    cursor: pointer;
+}
+
+/*USER - PasswordChanged, UpdatedInformation*/
+.four-zero-content h2 {
+    font-size: 30px;
+}
+
+.four-zero-content small {
+    display: block;
+    font-size: 15px;
+    margin-top: 20px;
+}
+
+.four-zero footer > a {
+    font-size: 35px;
+}
+
+/*YFZFİYATGRUP - Index*/
+.current-True, .current-True:hover {
+    background-color: #daecf5 !important;
+}
+
+/*CALISMANEDENI - Create*/
+.chosen-container-active .chosen-choices {
+    border: none;
+    box-shadow: none;
+}
+
+.chosen-container-multi .chosen-choices {
+    position: relative;
+    overflow: visible;
+    margin: 0;
+    padding: 0 5px;
+    width: 100%;
+    height: auto !important;
+    border: none;
+    background-color: #fff;
+    background-image: -webkit-linear-gradient(#eee 1%,#fff 15%);
+    background-image: -moz-linear-gradient(#eee 1%,#fff 15%);
+    background-image: -o-linear-gradient(#eee 1%,#fff 15%);
+    cursor: text;
+}
+
+/*CALISMANEDENI - Index*/
+.spanvirgul span:after {
+    content: ', ';
+}
+
+.spanvirgul span:last-child:after {
+    content: '' !important;
+}
+
+/*KURUM_DETAILS / Modüller */
+#litype {
+    display: list-item;
+    list-style-type: disc;
+    margin-top: 1em;
+    margin-bottom: 1 em;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 20px;
+    margin-left: 20px;
+}
+
+#ultype {
+    font-size: large;
+}
+
+
+
+
+
+
+
+
+
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.custom-tab > li > a {
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+}
+
+.custom-tab > li {
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+}
+
+    .custom-tab > li > a:link {
+        border-top: 3px solid #00bfff;
+        border-right: 1px solid #00bfff;
+        border-left: 1px solid #00bfff;
+    }
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:visited {
+    background-color: #00bfff;
+    border-top: 3px solid #00bfff;
+    border-right: 1px solid #00bfff;
+    border-left: 1px solid #00bfff;
+    color: #FFF;
+    background-color: #00bfff;
+}
+
+
+.link-lable {
+    text-decoration: none;
+    color: #000;
+}
+
+@media screen and (max-width: 767px) {
+
+    .link-lable {
+        display: none;
+    }
+}
+.top-menu > li > a {
+    color: #283593;
+}
+
+#menu-trigger .line-wrap .line {
+    background-color: #283593;
+}
+
+#toggle-width .toggle-switch .ts-helper {
+    background-color: #283593;
+}
+
+    #toggle-width .toggle-switch .ts-helper:before {
+        background-color: #283593;
+    }
+
+#header {
+    background-color: #ffffff;
+    z-index: 100;
+}
+
+    #header ul li #menu-trigger {
+        color: #283593;
+    }
+.top-menu > li > a > .tmn-counts {
+    color: white;
+}
+.chosen-choices {
+            max-height: 165px;
+            overflow: auto !important;
+        }
+ .card-filter {
+        background-color: #fbfbfb;
+        padding: 23px 26px;
+    }
+
+        .card-filter > h2 {
+            margin: 0;
+            line-height: 100%;
+            font-size: 17px;
+            font-weight: 400;
+            position:relative;
+            margin-bottom:10px;
+        }
+        .custom-tab > li > a {
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+}
+
+.custom-tab > li {
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+}
+
+    .custom-tab > li > a:link {
+        border-top: 2px solid #2196f3;
+        border-right: 1px solid #2196f3;
+        border-left: 1px solid #2196f3;
+    }
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:visited {
+    background-color: #2196f3;
+    border-top: 3px solid #2196f3;
+    border-right: 1px solid #2196f3;
+    border-left: 1px solid #2196f3;
+    color: #FFF;
+    background-color: #2196f3;
+}
+
+/*i {
+    color: #000;
+}*/
+
+.link-lable {
+    text-decoration: none;
+    color: #000;
+}
+
+@media screen and (max-width: 767px) {
+
+    .link-lable {
+        display: none;
+    }
+}
+body.page-layout .hidden-page-layout {
+    display:none !important;
+}

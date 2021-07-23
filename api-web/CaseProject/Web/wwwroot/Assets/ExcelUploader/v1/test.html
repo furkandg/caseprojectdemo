@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+</head>
+<body>
+    <div id="stokgirenloader">
+        <input type="file" id="fileUpload" class="" />
+        <button type="button" class="excel-save-btn"> Kaydet</button>
+        @*<button type="button" class="excel-clear-btn"> Vazgeç</button>*@
+        <div class="excel-table-load-div"></div>
+    </div>
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.13.5/xlsx.full.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.13.5/jszip.js"></script>
+    <script src="js/js.js"></script>
+    <script type="text/javascript">
+
+
+        ExcelLoader({
+            container: "#stokgirenloader",
+            tableClass: "",
+            saveAjax: {
+                url: "/",
+                method: "GET",
+                success: function (d) { console.log(d); },
+                error: function (e) { console.log(e); }
+            },
+            model: [
+                {
+                    fieldname: "kapino",
+                    label: "Kapı No",
+                    modelfieldname: "TabelaAdi"
+                },
+                {
+                    fieldname: "adet",
+                    label: "Adet",
+                    modelfieldname: "Adet"
+                }],
+            loadCallBackX: function (data) {
+                console.log(data);
+            }
+        })
+    </script>
+</body>
+</html>
